@@ -1,1 +1,3 @@
-# ramter77.github.io
+---
+permalink: /index.html
+---
