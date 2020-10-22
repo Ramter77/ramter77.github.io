@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shader | Tassio Steinmann</title>
-    <link>ramter77.github.io/tag/shader/</link>
-      <atom:link href="ramter77.github.io/tag/shader/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/shader/</link>
+      <atom:link href="/tag/shader/index.xml" rel="self" type="application/rss+xml" />
     <description>Shader</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ramter77.github.io/images/icon_hu7075f2a9e382ff4a971a5f6bd8850afb_10649_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu7075f2a9e382ff4a971a5f6bd8850afb_10649_512x512_fill_lanczos_center_2.png</url>
       <title>Shader</title>
-      <link>ramter77.github.io/tag/shader/</link>
+      <link>/tag/shader/</link>
     </image>
     
     <item>
       <title>Iroukaz</title>
-      <link>ramter77.github.io/project/iroukaz/</link>
+      <link>/project/iroukaz/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>ramter77.github.io/project/iroukaz/</guid>
+      <guid>/project/iroukaz/</guid>
       <description>&lt;style&gt;
 .quickfacts {
   table-layout: fixed;
@@ -78,7 +78,7 @@
       text-align: right;
       z-index: 5;
       opacity: 0.65;
-      border-radius: 5px 0 0 0;
+      border-radius: 0 0 5px 5px;
     }
 &lt;/style&gt;
 &lt;div class=&#34;embed video-player&#34;&gt;

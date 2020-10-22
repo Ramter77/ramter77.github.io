@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VR Gamedesign | Tassio Steinmann</title>
-    <link>ramter77.github.io/tag/vr-gamedesign/</link>
-      <atom:link href="ramter77.github.io/tag/vr-gamedesign/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/vr-gamedesign/</link>
+      <atom:link href="/tag/vr-gamedesign/index.xml" rel="self" type="application/rss+xml" />
     <description>VR Gamedesign</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/ramter77.github.io/images/icon_hu7075f2a9e382ff4a971a5f6bd8850afb_10649_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu7075f2a9e382ff4a971a5f6bd8850afb_10649_512x512_fill_lanczos_center_2.png</url>
       <title>VR Gamedesign</title>
-      <link>ramter77.github.io/tag/vr-gamedesign/</link>
+      <link>/tag/vr-gamedesign/</link>
     </image>
     
     <item>
       <title>Skyline</title>
-      <link>ramter77.github.io/project/skyline/</link>
+      <link>/project/skyline/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>ramter77.github.io/project/skyline/</guid>
+      <guid>/project/skyline/</guid>
       <description>&lt;style&gt;
 .quickfacts {
   table-layout: fixed;
@@ -78,7 +78,7 @@
       text-align: right;
       z-index: 5;
       opacity: 0.65;
-      border-radius: 5px 0 0 0;
+      border-radius: 0 0 5px 5px;
     }
 &lt;/style&gt;
 &lt;div class=&#34;embed video-player&#34;&gt;
@@ -148,9 +148,9 @@
     
     <item>
       <title>Smoking Allowed</title>
-      <link>ramter77.github.io/project/smoking-allowed/</link>
+      <link>/project/smoking-allowed/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>ramter77.github.io/project/smoking-allowed/</guid>
+      <guid>/project/smoking-allowed/</guid>
       <description>&lt;style&gt;
 .quickfacts {
   table-layout: fixed;
@@ -212,7 +212,7 @@
       text-align: right;
       z-index: 5;
       opacity: 0.65;
-      border-radius: 5px 0 0 0;
+      border-radius: 0 0 5px 5px;
     }
 &lt;/style&gt;
 &lt;div class=&#34;embed video-player&#34;&gt;
@@ -291,9 +291,9 @@
     
     <item>
       <title>PogoSwing</title>
-      <link>ramter77.github.io/project/pogo-swing/</link>
+      <link>/project/pogo-swing/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>ramter77.github.io/project/pogo-swing/</guid>
+      <guid>/project/pogo-swing/</guid>
       <description>&lt;style&gt;
 .quickfacts {
   table-layout: fixed;
@@ -355,7 +355,7 @@
       text-align: right;
       z-index: 5;
       opacity: 0.65;
-      border-radius: 5px 0 0 0;
+      border-radius: 0 0 5px 5px;
     }
 &lt;/style&gt;
 &lt;div class=&#34;embed video-player&#34;&gt;
